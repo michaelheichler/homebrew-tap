@@ -1,6 +1,6 @@
 cask "samsung-scan" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.0.0"
+  sha256 "5c6040d0aa038ba09b6eaabae7f99acf9fa8cb520625651531818bc175a219c9"
 
   url "https://github.com/michaelheichler/samsung-scan/releases/download/v#{version}/SamsungScan-#{version}.zip"
   name "Samsung Scan"
